@@ -13,7 +13,7 @@ export default function ImageViewer({ placeholderImage, selectedImage }) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    paddingTop: 32,
+    paddingTop: 80,
   },
   image: {
     width: 400,
